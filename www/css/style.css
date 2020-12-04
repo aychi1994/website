@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Page Title</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {
+.body {
   font-family: "Courier New", Courier, monospace;
   margin: 0;
 }
@@ -57,31 +50,3 @@ body {
   text-align: center; /* Center text*/
   background: #ddd; /* Grey background */
 }
-
-</style>
-</head>
-<body>
-
-<div class="header">
-  <h1>PORTFOLIO</h1>
-  <p>Harry George</p>
-</div>
-
-<div class="navbar">
-  <a href="#">Home</a>
-  <a href="#">About</a>
-  <a href="#">Portfolio</a>
-  <a href="#" class="right">Socials</a>
-</div>
-
-<div class="row">
-  <div class="side">...</div>
-  <div class="main">...</div>
-</div>
-
-<div class="footer">
-  <h2>Footer</h2>
-</div>
-
-</body>
-</html>
